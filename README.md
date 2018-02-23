@@ -1,1 +1,1 @@
-# trivia-game
+# hangman-game
