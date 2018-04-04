@@ -2,7 +2,7 @@ body{
 
   /* Background Image Formatting */
 
-  background-image: url("/Users/jessica/apps/trivia-game/assets/images/background.jpg");
+  background-image: url("../images/background.jpg");
   height:500px;
   background-attachment: fixed;
   background-position: center;
